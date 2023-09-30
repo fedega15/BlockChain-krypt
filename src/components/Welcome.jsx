@@ -63,7 +63,7 @@ const Input = ({ placeholder, name, type, value, handleChange }) => (
                   <p className="text-white font-semibold text-lg mt-1">
                     Ethereum Wallet
                   </p><a href=""></a>
-                  <p className="text-white font-light text-sm pt-1">Galassi Federico </p>
+                  <p className="text-white font-light text-sm pt-1">Galassi, Federico </p>
                   <h1 className="text-white font-black text-l pl-5 pt-2"> XXXX-02003-21121-XXXX  </h1>
                 </div>
               </div>
